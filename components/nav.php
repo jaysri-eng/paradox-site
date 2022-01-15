@@ -7,7 +7,7 @@
     <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/Paradox_Website/home.php">Home</a>
+          <a class="nav-link active" aria-current="page" href="/Paradox_Website/index.php">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/Paradox_Website/products.php">Products</a>
