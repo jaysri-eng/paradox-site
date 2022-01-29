@@ -13,16 +13,16 @@
 </head>
 <style>
   .grad {
-    background-image: linear-gradient(to bottom right, white, white);
+    background-image: linear-gradient(to bottom right, white, yellow);
   }
 </style>
 <div class="grad">
 
   <body style="background-color: white">
     <?php require 'components/nav.php' ?>
-    <div class="px-5 mt-5 row" style="width: 100%;">
-      <div class="col-lg-6 image">
-        <img src="assets/Paradox .png" />
+    <div class="px-5 mt-5 mx-3 row" style="width: 100%;">
+      <div class="col-lg-6 mt-5">
+        <img src="assets/p1.png" />
       </div>
       <div class="col-lg-6">
         <br />

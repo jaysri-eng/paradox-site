@@ -11,8 +11,12 @@
 
   <title>Paradox Inc</title>
 </head>
-
-<body style="background-color: white;">
+<style>
+  .grad {
+    background-image: linear-gradient(to bottom right, white, yellow);
+  }
+</style>
+<body class="grad" style="background-color: white;">
   <?php require 'components/nav.php' ?>
   <div>
     <div class="d-md-flex my-md-5 mx-md-5 ps-md-5 px-md-5">
